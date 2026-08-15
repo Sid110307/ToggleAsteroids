@@ -1,0 +1,12 @@
+{
+  "name": "ToggleAsteroids",
+  "version": "1.0.0",
+  "title": "Asteroid Spawner Toggler",
+  "author": "Sid110307",
+  "factorio_version": "2.1",
+  "dependencies": [
+    "base >= 2.1.0",
+    "space-age >= 2.1.0"
+  ],
+  "description": "Temporarily suppress asteroids on individual space platforms."
+}
