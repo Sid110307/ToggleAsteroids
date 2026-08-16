@@ -5,12 +5,12 @@ data:extend({
         order = "z[toggle-asteroids]",
         action = "lua",
 
-        toggleable = true,
+        toggleable = false,
         style = "red",
 
         localised_name = "Toggle asteroids",
         localised_description =
-            "Enable or disable asteroids on the current space platform",
+            "Choose a space platform and enable or disable asteroids",
 
         icon = "__space-age__/graphics/icons/metallic-asteroid-chunk.png",
         icon_size = 64,
